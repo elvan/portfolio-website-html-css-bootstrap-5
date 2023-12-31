@@ -25,3 +25,13 @@
 .header .social {
   bottom: 50px;
 }
+
+.about-img {
+  width: 240px;
+}
+
+.project:hover {
+  opacity: 0.8;
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.05);
+}
